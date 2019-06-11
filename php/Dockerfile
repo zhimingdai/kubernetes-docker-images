@@ -1,1 +1,1 @@
- FROM  k8s.gcr.io/hpa-example:latest
+FROM gcr.io/google_containers/hpa-example
